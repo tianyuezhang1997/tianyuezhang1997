@@ -17,7 +17,9 @@ There Are 4 Sections In This Introduction Page :
 - Favorite Sport : Soccer
 - Favorite Proverb : 
 > No pain, no gain - Hesperides 752  
-- The First Code I Learned:
+
+The First Code I Learned:  
+
 ```
 #include <stdio.h>
 
@@ -27,8 +29,8 @@ int main()
 
     return 0;
 }
-``` 
-- One of My Simple Website: [reporting.tianyuezhang1997.site](https://reporting.tianyuezhang1997.site) (if interested, please contact me to be registered as a user)
+```  
+One of My Simple Website: [reporting.tianyuezhang1997.site](https://reporting.tianyuezhang1997.site) (if interested, please contact me to be registered as a user)
 
 ## **_Academic History_**
 - Intended Degree: _Bachelor of Science_
